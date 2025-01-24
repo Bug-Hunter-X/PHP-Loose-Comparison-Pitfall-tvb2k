@@ -1,0 +1,1 @@
+This repository demonstrates a common error in PHP programming involving loose comparison. The `bug.php` file shows the faulty code that uses loose comparison (==), which leads to incorrect results when comparing values of different types.  The `bugSolution.php` file provides the corrected version using strict comparison (===).  The README details the issue and its solution.
